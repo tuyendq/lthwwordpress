@@ -9,5 +9,6 @@
 ### wp_options
 
 ### wp_terms
+- categories and categories' slugs 
 - tags and tags' slugs 
 - 
