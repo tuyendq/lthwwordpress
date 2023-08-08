@@ -12,3 +12,5 @@
 - categories and categories' slugs 
 - tags and tags' slugs 
 - 
+
+### wp_users
